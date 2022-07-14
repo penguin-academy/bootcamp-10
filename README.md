@@ -10,6 +10,6 @@ Un bootcamp es un curso intensivo de programación de 2 semanas que lleva a nues
 
 Estos archivos corresponden al bootcamp #10 de Penguin Academy, realizado desde el 13 de julio al 27 de julio del 2022.
 
-| Día | Tema                                      | Enlace                                                                        |
-| --- | ----------------------------------------- | ----------------------------------------------------------------------------- |
-| #1  | **Introducción a Python** <br> Temas: TBD | [Día 1](https://github.com/penguin-academy/bootcamp-10/blob/main/dia-1.ipynb) |
+| Día | Tema                                      | Enlace                                                                      |
+| --- | ----------------------------------------- | --------------------------------------------------------------------------- |
+| #1  | **Introducción a Python** <br> Temas: TBD | [Día 1](https://github.com/penguin-academy/bootcamp-9/blob/main/dia1.ipynb) |
