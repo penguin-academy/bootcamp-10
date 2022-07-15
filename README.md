@@ -10,8 +10,7 @@ Un bootcamp es un curso intensivo de programación de 2 semanas que lleva a nues
 
 Estos archivos corresponden al bootcamp #10 de Penguin Academy, realizado desde el 13 de julio al 27 de julio del 2022.
 
-| Día | Tema                                                                                                                                               | Enlace                                                                        |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Día | Tema | Enlace |
+| --- | --- | --- |
 | #1  | **Introducción a Python** <br> Temas: variables; tipos de datos; operaciones aritméticas; concatenación; `input()`; funciones; alcance (funciones) | [Día 1](https://github.com/penguin-academy/bootcamp-10/blob/main/dia-1.ipynb) |
-
-| #2 | **Pensamiento Computacional** <br> Temas: condicionales; listas; bucles `for` y `while`. Review con el inicio del proyecto Wordle en Python: variables; tipos de datos; operaciones aritméticas; concatenación; `input()`; funciones; alcance (funciones); condicionales. | [Día 2](https://github.com/penguin-academy/bootcamp-10/blob/main/dia-2.ipynb) |
+| #2  | **Pensamiento Computacional** <br> Temas: condicionales; listas; bucles `for` y `while`. Review con el inicio del proyecto Wordle en Python: variables; tipos de datos; operaciones aritméticas; concatenación; `input()`; funciones; alcance (funciones); condicionales. | [Día 2](https://github.com/penguin-academy/bootcamp-10/blob/main/dia-2.ipynb) |
